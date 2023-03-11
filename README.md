@@ -1,7 +1,7 @@
 # Totororia
 Social media application using MERN stack
 
-##Screenshots of the web application
+## Screenshots of the web application
 
 Register Page
 
